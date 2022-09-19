@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaevaStn
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning PHP
 - 📫 How to reach me: saintini.maeva@gmail.com
 
 <!---
